@@ -1,0 +1,15 @@
+{
+  "name": "npm-info",
+  "version": "0.0.1",
+  "description": "Shows readme file form npm",
+  "main": "index.js",
+  "author": "Alexander Vovchuk",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "marked": "^1.1.1",
+    "marked-terminal": "^4.1.0",
+    "npm": "^6.14.7",
+    "yargs": "^15.4.1"
+  }
+}
