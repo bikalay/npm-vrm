@@ -5,6 +5,14 @@
   "main": "index.js",
   "author": "Alexander Vovchuk",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bikalay/npm-info.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bikalay/npm-info/issues"
+  },
+  "homepage": "https://github.com/bikalay/npm-info#readme",
   "dependencies": {
     "chalk": "^4.1.0",
     "marked": "^1.1.1",
