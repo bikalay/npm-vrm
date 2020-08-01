@@ -1,5 +1,5 @@
 # npm-info
-Show package info and readme file
+Shows readme file for npm module
 
 Installation:
 ```shell
@@ -10,3 +10,5 @@ Usage:
 ```shell
 npm-vrm <package-name>
 ```
+
+

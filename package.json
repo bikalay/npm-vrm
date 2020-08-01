@@ -1,10 +1,11 @@
 {
   "name": "npm-vrm",
   "version": "0.0.4",
-  "description": "Shows readme file form npm",
+  "description": "Shows readme file for npm package",
   "main": "bin/index.js",
   "author": "@bikalay",
   "license": "MIT",
+  "keywords": ["npm", "readme"],
   "bin": {
     "npm-vrm": "./bin/index.js"
   },
