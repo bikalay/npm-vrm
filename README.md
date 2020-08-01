@@ -8,5 +8,5 @@ Installation:
 
 Usage:
 ```shell
-npm-info <package-name>
+npm-vrm <package-name>
 ```
