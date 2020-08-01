@@ -123,7 +123,7 @@ getGHPackageName(packageName)
       marked.setOptions({
         renderer: new TerminalRenderer({
           reflowText: true,
-          width: 60,
+          width: 80,
           link: chalk.blueBright,
           href: chalk.blueBright.underline,
         }),
