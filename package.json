@@ -1,18 +1,18 @@
 {
-  "name": "npm-info",
+  "name": "npm-vrm",
   "version": "0.0.1",
   "description": "Shows readme file form npm",
   "main": "index.js",
-  "author": "Alexander Vovchuk",
+  "author": "@bikalay",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bikalay/npm-info.git"
+    "url": "git+https://github.com/bikalay/npm-vrm.git"
   },
   "bugs": {
-    "url": "https://github.com/bikalay/npm-info/issues"
+    "url": "https://github.com/bikalay/npm-vrm/issues"
   },
-  "homepage": "https://github.com/bikalay/npm-info#readme",
+  "homepage": "https://github.com/bikalay/npm-vrm#readme",
   "dependencies": {
     "chalk": "^4.1.0",
     "marked": "^1.1.1",

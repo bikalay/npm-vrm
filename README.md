@@ -3,7 +3,7 @@ Show package info and readme file
 
 Installation:
 ```shell
- npm i -g  https://github.com/bikalay/npm-info.git
+ npm i -g npm-vrm
 ```
 
 Usage:
