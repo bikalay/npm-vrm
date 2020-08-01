@@ -1,10 +1,13 @@
 {
   "name": "npm-vrm",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Shows readme file form npm",
   "main": "bin/index.js",
   "author": "@bikalay",
   "license": "MIT",
+  "bin": {
+    "npm-vrm": "./bin/index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bikalay/npm-vrm.git"
