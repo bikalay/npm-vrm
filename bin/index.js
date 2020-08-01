@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const yargs = require("yargs");
 const npm = require("npm");
 const https = require("https");
