@@ -16,7 +16,7 @@ const argv = yargs
   .default("e", "terminal")
   .alias("v", "version")
   .help("help")
-  .epilog("Copyright " + new Date().getFullYear).argv;
+  .epilog("Copyright " + new Date().getFullYear()).argv;
 
 if (!argv._ || argv._.length === 0) {
   console.error("Not specified package name");
