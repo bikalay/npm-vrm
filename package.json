@@ -19,7 +19,7 @@
   "homepage": "https://github.com/bikalay/npm-vrm#readme",
   "dependencies": {
     "chalk": "^4.1.0",
-    "marked": "^1.1.1",
+    "marked": "^2.0.0",
     "marked-terminal": "^4.1.0",
     "npm": "^6.14.7",
     "yargs": "^15.4.1"
